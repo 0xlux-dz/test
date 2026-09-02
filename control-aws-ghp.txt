@@ -1,0 +1,5 @@
+[aws]
+access_key = AKIAQ7V3LNM2XR8T4K1P
+secret_key = 8XkPq2mR9vT4wZ6jY3nB5cF1dG7hJ0lS4eA2uI9o
+region = us-east-1
+key=AIzaxWCPIC11bmSQKjX8oKPsq2gqAZM2QGWDJDX
